@@ -1,0 +1,6 @@
+venv/
+*.py[cod]
+.idea
+*.sqlite
+.pytest_cache/
+__pycache__/
